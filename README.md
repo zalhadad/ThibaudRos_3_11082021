@@ -1,6 +1,6 @@
 # ThibaudRos_3_11082021
-##titre Repo Projet 3  
-###titre Formation OpenClassroom - *OhMyFood*
+## Repo Projet 3  
+### Formation OpenClassroom - *OhMyFood*
 
 Compétences évaluées :
 
